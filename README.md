@@ -1,2 +1,2 @@
 # Computational-Physics
-Computational Physics Homework
+Computational Physics Assignments
